@@ -1,0 +1,23 @@
+{
+  "name": "paopao7/alipay_scanpay",
+  "description": "base on alipay scanpay with php",
+  "keywords":["alipay", "thinkphp"],
+  "homepage":"http://itinfor.cn",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "version": "1.0.0",
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  },
+  "authors": [
+  {
+    "name": "paopao7",
+    "email": "980569038@qq.com"
+  }]
+}
