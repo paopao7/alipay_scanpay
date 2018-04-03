@@ -10,15 +10,15 @@
   "require": {
     "php": ">=5.5.0"
   },
+  "authors": [
+  {
+    "name": "paopao7",
+    "email": "980569038@qq.com"
+  }],
   "repositories": {
     "packagist": {
       "type": "composer",
       "url": "https://packagist.phpcomposer.com"
     }
   },
-  "authors": [
-  {
-    "name": "paopao7",
-    "email": "980569038@qq.com"
-  }]
 }
