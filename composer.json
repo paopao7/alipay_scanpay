@@ -15,10 +15,7 @@
     "name": "paopao7",
     "email": "980569038@qq.com"
   }],
-  "repositories": {
-    "packagist": {
-      "type": "composer",
-      "url": "https://packagist.phpcomposer.com"
-    }
+  "autoload": {
+    "psr-4": {"Scanpay\\": "src"}
   }
 }
